@@ -1,0 +1,58 @@
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.exe.config
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.exe
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.pdb
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.AssemblyReference.cache
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Form1.resources
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Properties.Resources.resources
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.GenerateResource.cache
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.CoreCompileInputs.cache
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWare.F7AF5D56.Up2Date
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.exe
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.pdb
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Form2.resources
+C:\Users\sondo\source\repos\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.MainForm.resources
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.exe.config
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.exe
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.pdb
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.AssemblyReference.cache
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Form1.resources
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Form2.resources
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.MainForm.resources
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Properties.Resources.resources
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.GenerateResource.cache
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.CoreCompileInputs.cache
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.exe
+F:\6th semester\Software Engineering\Project\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.pdb
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.exe.config
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.exe
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\SoftWareProject.pdb
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.AssemblyReference.cache
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Form1.resources
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Form2.resources
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.MainForm.resources
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Properties.Resources.resources
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.GenerateResource.cache
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.CoreCompileInputs.cache
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.csproj.CopyComplete
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.exe
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.pdb
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\stdole.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Form5.resources
+C:\Users\sondo\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\Mainstream_71_Magazine Management System\SoftWareProject\SoftWareProject\obj\Debug\SoftWareProject.Form4.resources
